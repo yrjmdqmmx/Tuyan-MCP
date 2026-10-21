@@ -1,6 +1,6 @@
 # Tuyan anonymous MCP
 
-Knowledge **1.2.0**. Public read-only figure taxonomy, workflows, schemas, versioned journal rules and provenance metadata. The single tool tuyan.get_workflow_bundle keeps its five enum fields. No research inputs, credentials, accounts or generation jobs are accepted.
+Knowledge **1.2.1**. Public read-only figure taxonomy, workflows, schemas, versioned journal rules and provenance metadata. The single tool tuyan.get_workflow_bundle keeps its five enum fields. No research inputs, credentials, accounts or generation jobs are accepted.
 
 Hosted endpoint: https://api.paperbanana.asia/mcp . [Skill source](https://github.com/yrjmdqmmx/Tuyan-Skill).
 
