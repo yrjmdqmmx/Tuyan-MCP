@@ -1,6 +1,6 @@
 {
   "sourceRepository": "https://github.com/yrjmdqmmx/Tuyan",
-  "sourceRevision": "10b292b34b093c965bac8f7a5af679144d78f926",
+  "sourceRevision": "9372209c8bb635bf78235b818111e6469173688f",
   "sourceDirty": false,
   "knowledgeVersion": "1.2.1",
   "knowledgeHash": "69dcae01db1e67a637a715c5c110535f352cf7a15559f3cc5c06bdf66259cea1",
@@ -8,7 +8,7 @@
   "journalVersion": "2026-10-19.v11",
   "files": {
     "scripts/verify-distribution.mjs": "d0a23319aca2fae3f19642b3a1301c0d0ff55bb6057080ade0431f0863b68f11",
-    "src/mcp.js": "b220763d77b09d610a5f966deb2a1670f44cd58cdd916aa7a8479ae0771b9749",
+    "src/mcp.js": "203d9d07c07850909d330b12ca8fdff79ff80bd2d419ac6a9dbdd38cf1dbbffb",
     "tests/mcp.test.js": "8655daf3080bfffa6999ecd13f5138b84081c64db935e2e1ddedd5fbd95e3979",
     "packages/tuyan-knowledge/src/agent-runtime-entry.js": "8d98b34cb3781fc6953320c420bb5c7837b60d9bf5b924d6b134a51ee34a0abd",
     "packages/tuyan-knowledge/src/catalog.js": "a6ca77f1be5216a1bab7f87bed4c047eb117ec137b9c910eafe36ceb1492364c",
@@ -52,7 +52,7 @@
     "packages/api/src/journal-rules.js": "c5e563606c20f500bfc992c99f2851fb0b57e4dbbec224ecf88e9fdb81d725c9",
     "packages/tuyan-knowledge/package.json": "2397678c45cdb53de87c1d57e1409cbf0437648eb4e81b10adc893e7c988fe1b",
     "packages/figure-taxonomy/package.json": "68fc6e4b0e7d5c619256e2858d3a5b76b72f48437de1183d6e053e71d6e998cd",
-    "README.md": "f70702f06f52b307ed75c053ac65287875e6d57038bf2ab656b8cc0feb5b8c25",
+    "README.md": "8f70345944fad185abc399976b6e895662bd2dea8790f32ea48e6d1af8cc4eda",
     "package.json": "86e9f6e79cb9e2178eb59a2a6799d6d5ee325760690af818933487ae26db3ebf",
     ".github/workflows/verify.yml": "208db7b95f3fa07e9398e9a3aeb35fa085a21e74ee69fe230b1ed836bcb0e5e3"
   }
